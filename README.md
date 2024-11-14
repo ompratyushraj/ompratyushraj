@@ -33,3 +33,18 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<div align="center">
+  <a href="https://myaccount.google.com/?gar=WzEyMF0&hl=en&utm_source=OGB&utm_medium=act" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=FFFFFF&logoColor=white&labelColor=e52e07&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/pratyush-r-979709250/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=FFFFFF&logoColor=white&labelColor=0077B5&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=FFFFFF&logoColor=white&labelColor=E4405F&style=for-the-badge" height="35" alt="instagram logo"  />
+  <a href="https://x.com/pR1tYuSh" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=X&color=FFFFFF&logoColor=white&labelColor=000000&style=for-the-badge" height="35" alt="twitter logo"  />
+  </a>
+</div>
